@@ -1,0 +1,3 @@
+C:/Users/sagih/semesters/year2/sem1/adv prog/Assignment4/cmake-build-debug/CMakeFiles/Assignment4.dir
+C:/Users/sagih/semesters/year2/sem1/adv prog/Assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sagih/semesters/year2/sem1/adv prog/Assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
